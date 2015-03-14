@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="TestSteps.CivilOrderSteps">
+      <class name="TestSteps.SignIn">
         <methods>
           <include name="setUp"/>
-          <include name="testCivilOrder"/>
+          <include name="testSignin"/>
         </methods>
-      </class> <!-- TestSteps.CivilOrderSteps -->
+      </class> <!-- TestSteps.SignIn -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

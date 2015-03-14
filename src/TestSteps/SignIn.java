@@ -2,7 +2,6 @@ package TestSteps;
 
 import org.testng.annotations.Test;
 import org.testng.annotations.BeforeMethod;
-
 import java.io.FileInputStream;
 import java.util.concurrent.TimeUnit;
 
@@ -23,6 +22,7 @@ public class SignIn
 {
 	private WebDriver driver;
 	int row = 2 ;
+	
 	
 	@BeforeMethod
 
