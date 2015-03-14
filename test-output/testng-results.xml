@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43823" started-at="2014-12-23T15:20:39Z" finished-at="2014-12-23T15:21:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43823" started-at="2014-12-23T15:20:39Z" finished-at="2014-12-23T15:21:23Z">
+      <class name="TestSteps.CivilOrderSteps">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestSteps.CivilOrderSteps@704666b6]" name="setUp" is-config="true" duration-ms="8832" started-at="2014-12-23T17:20:39Z" finished-at="2014-12-23T17:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCivilOrder()[pri:0, instance:TestSteps.CivilOrderSteps@704666b6]" name="testCivilOrder" duration-ms="34970" started-at="2014-12-23T17:20:48Z" finished-at="2014-12-23T17:21:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCivilOrder -->
+      </class> <!-- TestSteps.CivilOrderSteps -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
